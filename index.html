@@ -1,1 +1,49 @@
-<a href="skills.json">skills</a>
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Skills JSON Viewer</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 20px;
+        }
+        .skills-container {
+            margin-top: 20px;
+        }
+        .skills-container pre {
+            background-color: #f4f4f4;
+            padding: 10px;
+            border: 1px solid #ccc;
+            border-radius: 4px;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>Skills JSON Data</h1>
+    <button id="load-skills">Load Skills</button>
+    <div class="skills-container" id="skills-container"></div>
+
+    <script>
+        document.getElementById('load-skills').addEventListener('click', function() {
+            fetch('skills.json')
+                .then(response => {
+                    if (!response.ok) {
+                        throw new Error('Network response was not ok');
+                    }
+                    return response.json();
+                })
+                .then(data => {
+                    const skillsContainer = document.getElementById('skills-container');
+                    skillsContainer.innerHTML = '<pre>' + JSON.stringify(data, null, 2) + '</pre>';
+                })
+                .catch(error => {
+                    console.error('There was a problem with the fetch operation:', error);
+                });
+        });
+    </script>
+
+</body>
+</html>
