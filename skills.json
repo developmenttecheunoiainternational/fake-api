@@ -1,0 +1,294 @@
+{
+  "skills": {
+    "technical": [
+      {
+        "name": "HTML",
+        "icon": "https://img.icons8.com/color/48/000000/html-5.png",
+        "category": "Web Development",
+        "subcategory": "Frontend"
+      },
+      {
+        "name": "CSS",
+        "icon": "https://img.icons8.com/color/48/000000/css3.png",
+        "category": "Web Development",
+        "subcategory": "Frontend"
+      },
+      {
+        "name": "JavaScript",
+        "icon": "https://img.icons8.com/color/48/000000/javascript.png",
+        "category": "Web Development",
+        "subcategory": "Frontend"
+      },
+      {
+        "name": "React.js",
+        "icon": "https://img.icons8.com/color/48/000000/react-native.png",
+        "category": "Web Development",
+        "subcategory": "Frontend Framework"
+      },
+      {
+        "name": "Vue.js",
+        "icon": "https://img.icons8.com/color/48/000000/vue-js.png",
+        "category": "Web Development",
+        "subcategory": "Frontend Framework"
+      },
+      {
+        "name": "Node.js",
+        "icon": "https://img.icons8.com/color/48/000000/nodejs.png",
+        "category": "Web Development",
+        "subcategory": "Backend"
+      },
+      {
+        "name": "Express.js",
+        "icon": "https://img.icons8.com/color/48/000000/express.png",
+        "category": "Web Development",
+        "subcategory": "Backend"
+      },
+      {
+        "name": "Python",
+        "icon": "https://img.icons8.com/color/48/000000/python.png",
+        "category": "Programming",
+        "subcategory": "Scripting Language"
+      },
+      {
+        "name": "Django",
+        "icon": "https://img.icons8.com/color/48/000000/django.png",
+        "category": "Web Development",
+        "subcategory": "Backend Framework"
+      },
+      {
+        "name": "Kubernetes",
+        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png",
+        "category": "DevOps",
+        "subcategory": "Container Orchestration"
+      },
+      {
+        "name": "Docker",
+        "icon": "https://img.icons8.com/color/48/000000/docker.png",
+        "category": "DevOps",
+        "subcategory": "Containerization"
+      },
+      {
+        "name": "AWS",
+        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png",
+        "category": "Cloud Computing",
+        "subcategory": "Cloud Platform"
+      },
+      {
+        "name": "Azure",
+        "icon": "https://img.icons8.com/color/48/000000/azure.png",
+        "category": "Cloud Computing",
+        "subcategory": "Cloud Platform"
+      },
+      {
+        "name": "MySQL",
+        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png",
+        "category": "Database",
+        "subcategory": "Relational Database"
+      },
+      {
+        "name": "PostgreSQL",
+        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png",
+        "category": "Database",
+        "subcategory": "Relational Database"
+      },
+      {
+        "name": "MongoDB",
+        "icon": "https://img.icons8.com/color/48/000000/mongodb.png",
+        "category": "Database",
+        "subcategory": "NoSQL Database"
+      },
+      {
+        "name": "Git",
+        "icon": "https://img.icons8.com/color/48/000000/git.png",
+        "category": "Version Control",
+        "subcategory": "Source Control"
+      },
+      {
+        "name": "Linux",
+        "icon": "https://img.icons8.com/color/48/000000/linux.png",
+        "category": "Operating Systems",
+        "subcategory": "Server Management"
+      },
+      {
+        "name": "Cybersecurity",
+        "icon": "https://img.icons8.com/color/48/000000/cybersecurity.png",
+        "category": "Security",
+        "subcategory": "Network Security"
+      },
+      {
+        "name": "Blockchain",
+        "icon": "https://img.icons8.com/color/48/000000/blockchain-technology.png",
+        "category": "Security",
+        "subcategory": "Decentralized Technology"
+      },
+      {
+        "name": "Machine Learning",
+        "icon": "https://img.icons8.com/color/48/000000/machine-learning.png",
+        "category": "AI & ML",
+        "subcategory": "Artificial Intelligence"
+      },
+      {
+        "name": "Data Science",
+        "icon": "https://img.icons8.com/color/48/000000/data-science.png",
+        "category": "AI & ML",
+        "subcategory": "Data Analysis"
+      }
+    ],
+    "non_technical": [
+      {
+        "name": "Communication",
+        "icon": "https://img.icons8.com/color/48/000000/communication.png",
+        "category": "Soft Skills",
+        "subcategory": "Interpersonal"
+      },
+      {
+        "name": "Leadership",
+        "icon": "https://img.icons8.com/color/48/000000/leader.png",
+        "category": "Soft Skills",
+        "subcategory": "Management"
+      },
+      {
+        "name": "Critical Thinking",
+        "icon": "https://img.icons8.com/color/48/000000/idea.png",
+        "category": "Soft Skills",
+        "subcategory": "Problem Solving"
+      },
+      {
+        "name": "Teamwork",
+        "icon": "https://img.icons8.com/color/48/000000/teamwork.png",
+        "category": "Soft Skills",
+        "subcategory": "Collaboration"
+      },
+      {
+        "name": "Time Management",
+        "icon": "https://img.icons8.com/color/48/000000/time-management.png",
+        "category": "Productivity",
+        "subcategory": "Personal Productivity"
+      },
+      {
+        "name": "Public Speaking",
+        "icon": "https://img.icons8.com/color/48/000000/public-speaking.png",
+        "category": "Soft Skills",
+        "subcategory": "Presentation"
+      },
+      {
+        "name": "Negotiation",
+        "icon": "https://img.icons8.com/color/48/000000/handshake.png",
+        "category": "Business",
+        "subcategory": "Sales"
+      },
+      {
+        "name": "Conflict Resolution",
+        "icon": "https://img.icons8.com/color/48/000000/resolve.png",
+        "category": "Soft Skills",
+        "subcategory": "Management"
+      },
+      {
+        "name": "Creativity",
+        "icon": "https://img.icons8.com/color/48/000000/creativity.png",
+        "category": "Soft Skills",
+        "subcategory": "Innovation"
+      }
+    ],
+    "creative": [
+      {
+        "name": "Graphic Design",
+        "icon": "https://img.icons8.com/color/48/000000/graphic-design.png",
+        "category": "Design",
+        "subcategory": "Visual Design"
+      },
+      {
+        "name": "Video Editing",
+        "icon": "https://img.icons8.com/color/48/000000/video-editing.png",
+        "category": "Multimedia",
+        "subcategory": "Post Production"
+      },
+      {
+        "name": "Illustration",
+        "icon": "https://img.icons8.com/color/48/000000/illustrator.png",
+        "category": "Design",
+        "subcategory": "Drawing"
+      },
+      {
+        "name": "Adobe Photoshop",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png",
+        "category": "Design",
+        "subcategory": "Photo Editing"
+      },
+      {
+        "name": "Adobe Illustrator",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator.png",
+        "category": "Design",
+        "subcategory": "Vector Design"
+      },
+      {
+        "name": "Premiere Pro",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-premiere-pro.png",
+        "category": "Video Editing",
+        "subcategory": "Video Production"
+      },
+      {
+        "name": "After Effects",
+        "icon": "https://img.icons8.com/color/48/000000/adobe-after-effects.png",
+        "category": "Video Editing",
+        "subcategory": "Motion Graphics"
+      },
+      {
+        "name": "Figma",
+        "icon": "https://img.icons8.com/color/48/000000/figma.png",
+        "category": "Design",
+        "subcategory": "UI/UX"
+      }
+    ],
+    "business": [
+      {
+        "name": "Project Management",
+        "icon": "https://img.icons8.com/color/48/000000/project-management.png",
+        "category": "Management",
+        "subcategory": "Business Management"
+      },
+      {
+        "name": "Marketing Strategy",
+        "icon": "https://img.icons8.com/color/48/000000/marketing-strategy.png",
+        "category": "Marketing",
+        "subcategory": "Strategic Planning"
+      },
+      {
+        "name": "Sales Strategy",
+        "icon": "https://img.icons8.com/color/48/000000/sales-performance.png",
+        "category": "Sales",
+        "subcategory": "Sales Management"
+      },
+      {
+        "name": "Financial Management",
+        "icon": "https://img.icons8.com/color/48/000000/accounting.png",
+        "category": "Finance",
+        "subcategory": "Accounting"
+      },
+      {
+        "name": "Customer Support",
+        "icon": "https://img.icons8.com/color/48/000000/customer-support.png",
+        "category": "Customer Service",
+        "subcategory": "Support"
+      },
+      {
+        "name": "Supply Chain Management",
+        "icon": "https://img.icons8.com/color/48/000000/logistics.png",
+        "category": "Operations",
+        "subcategory": "Logistics"
+      },
+      {
+        "name": "Market Research",
+        "icon": "https://img.icons8.com/color/48/000000/market-research.png",
+        "category": "Marketing",
+        "subcategory": "Research"
+      },
+      {
+        "name": "Human Resources",
+        "icon": "https://img.icons8.com/color/48/000000/human-resources.png",
+        "category": "Business",
+        "subcategory": "HR Management"
+      }
+    ]
+  }
+}
