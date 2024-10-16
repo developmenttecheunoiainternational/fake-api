@@ -1,294 +1,1601 @@
 {
-  "skills": {
-    "technical": [
-      {
-        "name": "HTML",
-        "icon": "https://img.icons8.com/color/48/000000/html-5.png",
-        "category": "Web Development",
-        "subcategory": "Frontend"
-      },
-      {
-        "name": "CSS",
-        "icon": "https://img.icons8.com/color/48/000000/css3.png",
-        "category": "Web Development",
-        "subcategory": "Frontend"
-      },
-      {
-        "name": "JavaScript",
-        "icon": "https://img.icons8.com/color/48/000000/javascript.png",
-        "category": "Web Development",
-        "subcategory": "Frontend"
-      },
-      {
-        "name": "React.js",
-        "icon": "https://img.icons8.com/color/48/000000/react-native.png",
-        "category": "Web Development",
-        "subcategory": "Frontend Framework"
-      },
-      {
-        "name": "Vue.js",
-        "icon": "https://img.icons8.com/color/48/000000/vue-js.png",
-        "category": "Web Development",
-        "subcategory": "Frontend Framework"
-      },
-      {
-        "name": "Node.js",
-        "icon": "https://img.icons8.com/color/48/000000/nodejs.png",
-        "category": "Web Development",
-        "subcategory": "Backend"
-      },
-      {
-        "name": "Express.js",
-        "icon": "https://img.icons8.com/color/48/000000/express.png",
-        "category": "Web Development",
-        "subcategory": "Backend"
-      },
-      {
-        "name": "Python",
-        "icon": "https://img.icons8.com/color/48/000000/python.png",
-        "category": "Programming",
-        "subcategory": "Scripting Language"
-      },
-      {
-        "name": "Django",
-        "icon": "https://img.icons8.com/color/48/000000/django.png",
-        "category": "Web Development",
-        "subcategory": "Backend Framework"
-      },
-      {
-        "name": "Kubernetes",
-        "icon": "https://img.icons8.com/color/48/000000/kubernetes.png",
-        "category": "DevOps",
-        "subcategory": "Container Orchestration"
-      },
-      {
-        "name": "Docker",
-        "icon": "https://img.icons8.com/color/48/000000/docker.png",
-        "category": "DevOps",
-        "subcategory": "Containerization"
-      },
-      {
-        "name": "AWS",
-        "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png",
-        "category": "Cloud Computing",
-        "subcategory": "Cloud Platform"
-      },
-      {
-        "name": "Azure",
-        "icon": "https://img.icons8.com/color/48/000000/azure.png",
-        "category": "Cloud Computing",
-        "subcategory": "Cloud Platform"
-      },
-      {
-        "name": "MySQL",
-        "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png",
-        "category": "Database",
-        "subcategory": "Relational Database"
-      },
-      {
-        "name": "PostgreSQL",
-        "icon": "https://img.icons8.com/color/48/000000/postgreesql.png",
-        "category": "Database",
-        "subcategory": "Relational Database"
-      },
-      {
-        "name": "MongoDB",
-        "icon": "https://img.icons8.com/color/48/000000/mongodb.png",
-        "category": "Database",
-        "subcategory": "NoSQL Database"
-      },
-      {
-        "name": "Git",
-        "icon": "https://img.icons8.com/color/48/000000/git.png",
-        "category": "Version Control",
-        "subcategory": "Source Control"
-      },
-      {
-        "name": "Linux",
-        "icon": "https://img.icons8.com/color/48/000000/linux.png",
-        "category": "Operating Systems",
-        "subcategory": "Server Management"
-      },
-      {
-        "name": "Cybersecurity",
-        "icon": "https://img.icons8.com/color/48/000000/cybersecurity.png",
-        "category": "Security",
-        "subcategory": "Network Security"
-      },
-      {
-        "name": "Blockchain",
-        "icon": "https://img.icons8.com/color/48/000000/blockchain-technology.png",
-        "category": "Security",
-        "subcategory": "Decentralized Technology"
-      },
-      {
-        "name": "Machine Learning",
-        "icon": "https://img.icons8.com/color/48/000000/machine-learning.png",
-        "category": "AI & ML",
-        "subcategory": "Artificial Intelligence"
-      },
-      {
-        "name": "Data Science",
-        "icon": "https://img.icons8.com/color/48/000000/data-science.png",
-        "category": "AI & ML",
-        "subcategory": "Data Analysis"
-      }
-    ],
-    "non_technical": [
-      {
-        "name": "Communication",
-        "icon": "https://img.icons8.com/color/48/000000/communication.png",
-        "category": "Soft Skills",
-        "subcategory": "Interpersonal"
-      },
-      {
-        "name": "Leadership",
-        "icon": "https://img.icons8.com/color/48/000000/leader.png",
-        "category": "Soft Skills",
-        "subcategory": "Management"
-      },
-      {
-        "name": "Critical Thinking",
-        "icon": "https://img.icons8.com/color/48/000000/idea.png",
-        "category": "Soft Skills",
-        "subcategory": "Problem Solving"
-      },
-      {
-        "name": "Teamwork",
-        "icon": "https://img.icons8.com/color/48/000000/teamwork.png",
-        "category": "Soft Skills",
-        "subcategory": "Collaboration"
-      },
-      {
-        "name": "Time Management",
-        "icon": "https://img.icons8.com/color/48/000000/time-management.png",
-        "category": "Productivity",
-        "subcategory": "Personal Productivity"
-      },
-      {
-        "name": "Public Speaking",
-        "icon": "https://img.icons8.com/color/48/000000/public-speaking.png",
-        "category": "Soft Skills",
-        "subcategory": "Presentation"
-      },
-      {
-        "name": "Negotiation",
-        "icon": "https://img.icons8.com/color/48/000000/handshake.png",
-        "category": "Business",
-        "subcategory": "Sales"
-      },
-      {
-        "name": "Conflict Resolution",
-        "icon": "https://img.icons8.com/color/48/000000/resolve.png",
-        "category": "Soft Skills",
-        "subcategory": "Management"
-      },
-      {
-        "name": "Creativity",
-        "icon": "https://img.icons8.com/color/48/000000/creativity.png",
-        "category": "Soft Skills",
-        "subcategory": "Innovation"
-      }
-    ],
-    "creative": [
-      {
-        "name": "Graphic Design",
-        "icon": "https://img.icons8.com/color/48/000000/graphic-design.png",
-        "category": "Design",
-        "subcategory": "Visual Design"
-      },
-      {
-        "name": "Video Editing",
-        "icon": "https://img.icons8.com/color/48/000000/video-editing.png",
-        "category": "Multimedia",
-        "subcategory": "Post Production"
-      },
-      {
-        "name": "Illustration",
-        "icon": "https://img.icons8.com/color/48/000000/illustrator.png",
-        "category": "Design",
-        "subcategory": "Drawing"
-      },
-      {
-        "name": "Adobe Photoshop",
-        "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png",
-        "category": "Design",
-        "subcategory": "Photo Editing"
-      },
-      {
-        "name": "Adobe Illustrator",
-        "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator.png",
-        "category": "Design",
-        "subcategory": "Vector Design"
-      },
-      {
-        "name": "Premiere Pro",
-        "icon": "https://img.icons8.com/color/48/000000/adobe-premiere-pro.png",
-        "category": "Video Editing",
-        "subcategory": "Video Production"
-      },
-      {
-        "name": "After Effects",
-        "icon": "https://img.icons8.com/color/48/000000/adobe-after-effects.png",
-        "category": "Video Editing",
-        "subcategory": "Motion Graphics"
-      },
-      {
-        "name": "Figma",
-        "icon": "https://img.icons8.com/color/48/000000/figma.png",
-        "category": "Design",
-        "subcategory": "UI/UX"
-      }
-    ],
-    "business": [
-      {
-        "name": "Project Management",
-        "icon": "https://img.icons8.com/color/48/000000/project-management.png",
-        "category": "Management",
-        "subcategory": "Business Management"
-      },
-      {
-        "name": "Marketing Strategy",
-        "icon": "https://img.icons8.com/color/48/000000/marketing-strategy.png",
-        "category": "Marketing",
-        "subcategory": "Strategic Planning"
-      },
-      {
-        "name": "Sales Strategy",
-        "icon": "https://img.icons8.com/color/48/000000/sales-performance.png",
-        "category": "Sales",
-        "subcategory": "Sales Management"
-      },
-      {
-        "name": "Financial Management",
-        "icon": "https://img.icons8.com/color/48/000000/accounting.png",
-        "category": "Finance",
-        "subcategory": "Accounting"
-      },
-      {
-        "name": "Customer Support",
-        "icon": "https://img.icons8.com/color/48/000000/customer-support.png",
-        "category": "Customer Service",
-        "subcategory": "Support"
-      },
-      {
-        "name": "Supply Chain Management",
-        "icon": "https://img.icons8.com/color/48/000000/logistics.png",
-        "category": "Operations",
-        "subcategory": "Logistics"
-      },
-      {
-        "name": "Market Research",
-        "icon": "https://img.icons8.com/color/48/000000/market-research.png",
-        "category": "Marketing",
-        "subcategory": "Research"
-      },
-      {
-        "name": "Human Resources",
-        "icon": "https://img.icons8.com/color/48/000000/human-resources.png",
-        "category": "Business",
-        "subcategory": "HR Management"
-      }
-    ]
-  }
+  "skills": [
+    {
+      "id": 1,
+      "name": "Programming",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/code.png"
+    },
+    {
+      "id": 2,
+      "name": "Data Analysis",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/data-analytics.png"
+    },
+    {
+      "id": 3,
+      "name": "Machine Learning",
+      "category": "AI & ML",
+      "subcategory": "Artificial Intelligence",
+      "icon": "https://img.icons8.com/color/48/000000/machine-learning.png"
+    },
+    {
+      "id": 4,
+      "name": "Artificial Intelligence",
+      "category": "AI & ML",
+      "subcategory": "Artificial Intelligence",
+      "icon": "https://img.icons8.com/color/48/000000/artificial-intelligence.png"
+    },
+    {
+      "id": 5,
+      "name": "Cloud Computing",
+      "category": "Cloud Computing",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/cloud.png"
+    },
+    {
+      "id": 6,
+      "name": "Cybersecurity",
+      "category": "Security",
+      "subcategory": "Network Security",
+      "icon": "https://img.icons8.com/color/48/000000/cybersecurity.png"
+    },
+    {
+      "id": 7,
+      "name": "Web Development",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/web-design.png"
+    },
+    {
+      "id": 8,
+      "name": "Mobile App Development",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/mobile.png"
+    },
+    {
+      "id": 9,
+      "name": "Database Management",
+      "category": "Database",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/database.png"
+    },
+    {
+      "id": 10,
+      "name": "Software Engineering",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/developer.png"
+    },
+    {
+      "id": 11,
+      "name": "Quality Assurance",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/quality.png"
+    },
+    {
+      "id": 12,
+      "name": "Testing",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/bug.png"
+    },
+    {
+      "id": 13,
+      "name": "Data Mining",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/data-mining.png"
+    },
+    {
+      "id": 14,
+      "name": "Data Visualization",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/combo-chart.png"
+    },
+    {
+      "id": 15,
+      "name": "SEO Optimization",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/seo.png"
+    },
+    {
+      "id": 16,
+      "name": "UX/UI Design",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/design.png"
+    },
+    {
+      "id": 17,
+      "name": "Network Administration",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/network.png"
+    },
+    {
+      "id": 18,
+      "name": "System Administration",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/server.png"
+    },
+    {
+      "id": 19,
+      "name": "Communication",
+      "category": "Soft Skills",
+      "subcategory": "Interpersonal",
+      "icon": "https://img.icons8.com/color/48/000000/communication.png"
+    },
+    {
+      "id": 20,
+      "name": "Teamwork",
+      "category": "Soft Skills",
+      "subcategory": "Collaboration",
+      "icon": "https://img.icons8.com/color/48/000000/teamwork.png"
+    },
+    {
+      "id": 21,
+      "name": "Leadership",
+      "category": "Soft Skills",
+      "subcategory": "Management",
+      "icon": "https://img.icons8.com/color/48/000000/leader.png"
+    },
+    {
+      "id": 22,
+      "name": "Problem Solving",
+      "category": "Soft Skills",
+      "subcategory": "Problem Solving",
+      "icon": "https://img.icons8.com/color/48/000000/problem-solving.png"
+    },
+    {
+      "id": 23,
+      "name": "Critical Thinking",
+      "category": "Soft Skills",
+      "subcategory": "Problem Solving",
+      "icon": "https://img.icons8.com/color/48/000000/idea.png"
+    },
+    {
+      "id": 24,
+      "name": "Time Management",
+      "category": "Productivity",
+      "subcategory": "Personal Productivity",
+      "icon": "https://img.icons8.com/color/48/000000/time-management.png"
+    },
+    {
+      "id": 25,
+      "name": "Adaptability",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/adaptability.png"
+    },
+    {
+      "id": 26,
+      "name": "Creativity",
+      "category": "Soft Skills",
+      "subcategory": "Innovation",
+      "icon": "https://img.icons8.com/color/48/000000/creativity.png"
+    },
+    {
+      "id": 27,
+      "name": "Decision Making",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/decision.png"
+    },
+    {
+      "id": 28,
+      "name": "Conflict Resolution",
+      "category": "Soft Skills",
+      "subcategory": "Management",
+      "icon": "https://img.icons8.com/color/48/000000/resolve.png"
+    },
+    {
+      "id": 29,
+      "name": "Negotiation",
+      "category": "Business",
+      "subcategory": "Sales",
+      "icon": "https://img.icons8.com/color/48/000000/handshake.png"
+    },
+    {
+      "id": 30,
+      "name": "Public Speaking",
+      "category": "Soft Skills",
+      "subcategory": "Presentation",
+      "icon": "https://img.icons8.com/color/48/000000/public-speaking.png"
+    },
+    {
+      "id": 31,
+      "name": "Customer Service",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/customer-support.png"
+    },
+    {
+      "id": 32,
+      "name": "Emotional Intelligence",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/emotional-intelligence.png"
+    },
+    {
+      "id": 33,
+      "name": "Strategic Planning",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/strategic-planning.png"
+    },
+    {
+      "id": 34,
+      "name": "Networking",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/networking.png"
+    },
+    {
+      "id": 35,
+      "name": "Mentoring",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/mentor.png"
+    },
+    {
+      "id": 36,
+      "name": "Coaching",
+      "category": "Soft Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/coach.png"
+    },
+    {
+      "id": 37,
+      "name": "Project Management",
+      "category": "Management",
+      "subcategory": "Business Management",
+      "icon": "https://img.icons8.com/color/48/000000/project-management.png"
+    },
+    {
+      "id": 38,
+      "name": "Financial Analysis",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/financial-analytics.png"
+    },
+    {
+      "id": 39,
+      "name": "Marketing",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/marketing.png"
+    },
+    {
+      "id": 40,
+      "name": "Sales",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/sales-performance.png"
+    },
+    {
+      "id": 41,
+      "name": "Business Analysis",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/business-analysis.png"
+    },
+    {
+      "id": 42,
+      "name": "Supply Chain Management",
+      "category": "Operations",
+      "subcategory": "Logistics",
+      "icon": "https://img.icons8.com/color/48/000000/logistics.png"
+    },
+    {
+      "id": 43,
+      "name": "Operations Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/automation.png"
+    },
+    {
+      "id": 44,
+      "name": "Risk Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/risk.png"
+    },
+    {
+      "id": 45,
+      "name": "Legal Compliance",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/legal.png"
+    },
+    {
+      "id": 46,
+      "name": "Human Resources",
+      "category": "Business",
+      "subcategory": "HR Management",
+      "icon": "https://img.icons8.com/color/48/000000/human-resources.png"
+    },
+    {
+      "id": 47,
+      "name": "Event Planning",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/event-accepted.png"
+    },
+    {
+      "id": 48,
+      "name": "Content Creation",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/content.png"
+    },
+    {
+      "id": 49,
+      "name": "Social Media Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/social-media.png"
+    },
+    {
+      "id": 50,
+      "name": "Product Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/product.png"
+    },
+    {
+      "id": 51,
+      "name": "English",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/usa.png"
+    },
+    {
+      "id": 52,
+      "name": "Spanish",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/spain-2.png"
+    },
+    {
+      "id": 53,
+      "name": "Mandarin",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/china.png"
+    },
+    {
+      "id": 54,
+      "name": "French",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/france.png"
+    },
+    {
+      "id": 55,
+      "name": "German",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/germany.png"
+    },
+    {
+      "id": 56,
+      "name": "Japanese",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/japan.png"
+    },
+    {
+      "id": 57,
+      "name": "Korean",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/south-korea.png"
+    },
+    {
+      "id": 58,
+      "name": "Russian",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/russian-federation.png"
+    },
+    {
+      "id": 59,
+      "name": "Arabic",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/saudi-arabia.png"
+    },
+    {
+      "id": 60,
+      "name": "Portuguese",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/portugal.png"
+    },
+    {
+      "id": 61,
+      "name": "Hindi",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/india.png"
+    },
+    {
+      "id": 62,
+      "name": "Technical Writing",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/document.png"
+    },
+    {
+      "id": 63,
+      "name": "Research",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/research.png"
+    },
+    {
+      "id": 64,
+      "name": "Teaching",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/teaching.png"
+    },
+    {
+      "id": 65,
+      "name": "Design Thinking",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/idea.png"
+    },
+    {
+      "id": 66,
+      "name": "First Aid",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/first-aid-kit.png"
+    },
+    {
+      "id": 67,
+      "name": "Photography",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/camera.png"
+    },
+    {
+      "id": 68,
+      "name": "Videography",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/film-reel.png"
+    },
+    {
+      "id": 69,
+      "name": "Graphic Design",
+      "category": "Design",
+      "subcategory": "Visual Design",
+      "icon": "https://img.icons8.com/color/48/000000/graphic-design.png"
+    },
+    {
+      "id": 70,
+      "name": "Animation",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/animation.png"
+    },
+    {
+      "id": 71,
+      "name": "Music Production",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/music.png"
+    },
+    {
+      "id": 72,
+      "name": "Game Development",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/game-controller.png"
+    },
+    {
+      "id": 73,
+      "name": "Data Entry",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/data-entry.png"
+    },
+    {
+      "id": 74,
+      "name": "Advanced Mathematics",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/math.png"
+    },
+    {
+      "id": 75,
+      "name": "Physics",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/physics.png"
+    },
+    {
+      "id": 76,
+      "name": "Chemistry",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/chemistry.png"
+    },
+    {
+      "id": 77,
+      "name": "Biology",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/biology.png"
+    },
+    {
+      "id": 78,
+      "name": "Statistics",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/statistics.png"
+    },
+    {
+      "id": 79,
+      "name": "Economics",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/economics.png"
+    },
+    {
+      "id": 80,
+      "name": "Accounting",
+      "category": "Finance",
+      "subcategory": "Accounting",
+      "icon": "https://img.icons8.com/color/48/000000/accounting.png"
+    },
+    {
+      "id": 81,
+      "name": "Copywriting",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/copywriting.png"
+    },
+    {
+      "id": 82,
+      "name": "Editing",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/edit.png"
+    },
+    {
+      "id": 83,
+      "name": "Transcription",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/transcription.png"
+    },
+    {
+      "id": 84,
+      "name": "Proofreading",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/spell-check.png"
+    },
+    {
+      "id": 85,
+      "name": "Translation",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/translation.png"
+    },
+    {
+      "id": 86,
+      "name": "Interpretation",
+      "category": "Language Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/language.png"
+    },
+    {
+      "id": 87,
+      "name": "Legal Writing",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/legal-document.png"
+    },
+    {
+      "id": 88,
+      "name": "Customer Relationship Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/customer-relationship-management.png"
+    },
+    {
+      "id": 89,
+      "name": "Business Development",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/business.png"
+    },
+    {
+      "id": 90,
+      "name": "Process Improvement",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/process.png"
+    },
+    {
+      "id": 91,
+      "name": "Lean Manufacturing",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/lean-manufacturing.png"
+    },
+    {
+      "id": 92,
+      "name": "Six Sigma",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/six-sigma.png"
+    },
+    {
+      "id": 93,
+      "name": "SAP",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/sap.png"
+    },
+    {
+      "id": 94,
+      "name": "Oracle",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/oracle-logo.png"
+    },
+    {
+      "id": 95,
+      "name": "Microsoft Excel",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/microsoft-excel-2019--v1.png"
+    },
+    {
+      "id": 96,
+      "name": "PowerPoint",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/microsoft-powerpoint-2019--v1.png"
+    },
+    {
+      "id": 97,
+      "name": "Microsoft Word",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/microsoft-word-2019--v1.png"
+    },
+    {
+      "id": 98,
+      "name": "Adobe Photoshop",
+      "category": "Design",
+      "subcategory": "Photo Editing",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png"
+    },
+    {
+      "id": 99,
+      "name": "Adobe Illustrator",
+      "category": "Design",
+      "subcategory": "Vector Design",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator.png"
+    },
+    {
+      "id": 100,
+      "name": "Adobe InDesign",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/adobe-indesign--v1.png"
+    },
+    {
+      "id": 101,
+      "name": "AutoCAD",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/autocad.png"
+    },
+    {
+      "id": 102,
+      "name": "3D Modeling",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/3d.png"
+    },
+    {
+      "id": 103,
+      "name": "CAD/CAM",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/cad.png"
+    },
+    {
+      "id": 104,
+      "name": "Electronics",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/electronics.png"
+    },
+    {
+      "id": 105,
+      "name": "Mechanical Engineering",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/mechanical.png"
+    },
+    {
+      "id": 106,
+      "name": "Electrical Engineering",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/electrical.png"
+    },
+    {
+      "id": 107,
+      "name": "Civil Engineering",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/engineering.png"
+    },
+    {
+      "id": 108,
+      "name": "Project Scheduling",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/schedule.png"
+    },
+    {
+      "id": 109,
+      "name": "Contract Negotiation",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/contract.png"
+    },
+    {
+      "id": 110,
+      "name": "Quality Control",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/quality-control.png"
+    },
+    {
+      "id": 111,
+      "name": "Scrum",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/scrum.png"
+    },
+    {
+      "id": 112,
+      "name": "Agile Methodologies",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/agile.png"
+    },
+    {
+      "id": 113,
+      "name": "Data Science",
+      "category": "AI & ML",
+      "subcategory": "Data Analysis",
+      "icon": "https://img.icons8.com/color/48/000000/data-science.png"
+    },
+    {
+      "id": 114,
+      "name": "Big Data",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/big-data.png"
+    },
+    {
+      "id": 115,
+      "name": "Natural Language Processing",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/natural-language-processing.png"
+    },
+    {
+      "id": 116,
+      "name": "Computer Vision",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/computer-vision.png"
+    },
+    {
+      "id": 117,
+      "name": "Deep Learning",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/deep-learning.png"
+    },
+    {
+      "id": 118,
+      "name": "Robotics",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/robot-2.png"
+    },
+    {
+      "id": 119,
+      "name": "Blockchain",
+      "category": "Security",
+      "subcategory": "Decentralized Technology",
+      "icon": "https://img.icons8.com/color/48/000000/blockchain-technology.png"
+    },
+    {
+      "id": 120,
+      "name": "Internet of Things (IoT)",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/internet-of-things.png"
+    },
+    {
+      "id": 121,
+      "name": "DevOps",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/devops.png"
+    },
+    {
+      "id": 122,
+      "name": "Continuous Integration",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/continuous-integration.png"
+    },
+    {
+      "id": 123,
+      "name": "Continuous Deployment",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/continuous-deployment.png"
+    },
+    {
+      "id": 124,
+      "name": "Microservices",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/microservices.png"
+    },
+    {
+      "id": 125,
+      "name": "Containerization",
+      "category": "DevOps",
+      "subcategory": "Containerization",
+      "icon": "https://img.icons8.com/color/48/000000/container-truck.png"
+    },
+    {
+      "id": 126,
+      "name": "Docker",
+      "category": "DevOps",
+      "subcategory": "Containerization",
+      "icon": "https://img.icons8.com/color/48/000000/docker.png"
+    },
+    {
+      "id": 127,
+      "name": "Kubernetes",
+      "category": "DevOps",
+      "subcategory": "Container Orchestration",
+      "icon": "https://img.icons8.com/color/48/000000/kubernetes.png"
+    },
+    {
+      "id": 128,
+      "name": "Serverless Computing",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/serverless-architecture.png"
+    },
+    {
+      "id": 129,
+      "name": "Virtualization",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/virtual-machine.png"
+    },
+    {
+      "id": 130,
+      "name": "ITIL",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/itil.png"
+    },
+    {
+      "id": 131,
+      "name": "Change Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/change.png"
+    },
+    {
+      "id": 132,
+      "name": "IT Service Management",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/it-service.png"
+    },
+    {
+      "id": 133,
+      "name": "Incident Management",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/incident-command-system.png"
+    },
+    {
+      "id": 134,
+      "name": "Capacity Planning",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/capacity-building.png"
+    },
+    {
+      "id": 135,
+      "name": "Performance Tuning",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/performance.png"
+    },
+    {
+      "id": 136,
+      "name": "Disaster Recovery",
+      "category": "Technical Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/disaster.png"
+    },
+    {
+      "id": 137,
+      "name": "Business Continuity Planning",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/continuity.png"
+    },
+    {
+      "id": 138,
+      "name": "Mobile Marketing",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/mobile-marketing.png"
+    },
+    {
+      "id": 139,
+      "name": "Email Marketing",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/email-marketing.png"
+    },
+    {
+      "id": 140,
+      "name": "Content Marketing",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/content-marketing.png"
+    },
+    {
+      "id": 141,
+      "name": "Digital Advertising",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/digital-campaign.png"
+    },
+    {
+      "id": 142,
+      "name": "Public Relations",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/public-relations.png"
+    },
+    {
+      "id": 143,
+      "name": "Brand Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/brand.png"
+    },
+    {
+      "id": 144,
+      "name": "Market Research",
+      "category": "Marketing",
+      "subcategory": "Research",
+      "icon": "https://img.icons8.com/color/48/000000/market-research.png"
+    },
+    {
+      "id": 145,
+      "name": "Event Management",
+      "category": "Business Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/event.png"
+    },
+    {
+      "id": 146,
+      "name": "Hospitality",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/hospitality.png"
+    },
+    {
+      "id": 147,
+      "name": "Culinary Arts",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/chef-hat.png"
+    },
+    {
+      "id": 148,
+      "name": "Bartending",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/cocktail.png"
+    },
+    {
+      "id": 149,
+      "name": "Nutrition",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/nutrition.png"
+    },
+    {
+      "id": 150,
+      "name": "Fitness Training",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/fitness.png"
+    },
+    {
+      "id": 151,
+      "name": "Yoga Instruction",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/yoga.png"
+    },
+    {
+      "id": 152,
+      "name": "Pilates Instruction",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/pilates.png"
+    },
+    {
+      "id": 153,
+      "name": "Personal Training",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/personal-trainer.png"
+    },
+    {
+      "id": 154,
+      "name": "Physical Therapy",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/physical-therapy.png"
+    },
+    {
+      "id": 155,
+      "name": "Massage Therapy",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/massage.png"
+    },
+    {
+      "id": 156,
+      "name": "Healthcare Management",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/healthcare.png"
+    },
+    {
+      "id": 157,
+      "name": "Nursing",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/nurse-male.png"
+    },
+    {
+      "id": 158,
+      "name": "Clinical Research",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/clinic.png"
+    },
+    {
+      "id": 159,
+      "name": "Pharmacology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/pill.png"
+    },
+    {
+      "id": 160,
+      "name": "Biotechnology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/biotech.png"
+    },
+    {
+      "id": 161,
+      "name": "Environmental Science",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/earth-care.png"
+    },
+    {
+      "id": 162,
+      "name": "Geology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/rock.png"
+    },
+    {
+      "id": 163,
+      "name": "Meteorology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/clouds.png"
+    },
+    {
+      "id": 164,
+      "name": "Astronomy",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/telescope.png"
+    },
+    {
+      "id": 165,
+      "name": "Marine Biology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/fish.png"
+    },
+    {
+      "id": 166,
+      "name": "Zoology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/animal.png"
+    },
+    {
+      "id": 167,
+      "name": "Archaeology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/archaeology.png"
+    },
+    {
+      "id": 168,
+      "name": "History",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/historical.png"
+    },
+    {
+      "id": 169,
+      "name": "Sociology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/sociology.png"
+    },
+    {
+      "id": 170,
+      "name": "Psychology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/psychology.png"
+    },
+    {
+      "id": 171,
+      "name": "Anthropology",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/anthropology.png"
+    },
+    {
+      "id": 172,
+      "name": "Philosophy",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/philosophy.png"
+    },
+    {
+      "id": 173,
+      "name": "Political Science",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/politics.png"
+    },
+    {
+      "id": 174,
+      "name": "Journalism",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/journalist.png"
+    },
+    {
+      "id": 175,
+      "name": "Public Policy",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/policy-document.png"
+    },
+    {
+      "id": 176,
+      "name": "Public Administration",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/government.png"
+    },
+    {
+      "id": 177,
+      "name": "International Relations",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/globe.png"
+    },
+    {
+      "id": 178,
+      "name": "Ethics",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/justice.png"
+    },
+    {
+      "id": 179,
+      "name": "Religious Studies",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/pray.png"
+    },
+    {
+      "id": 180,
+      "name": "Fine Arts",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/museum.png"
+    },
+    {
+      "id": 181,
+      "name": "Painting",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/paint-palette.png"
+    },
+    {
+      "id": 182,
+      "name": "Sculpture",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/sculpture.png"
+    },
+    {
+      "id": 183,
+      "name": "Ceramics",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/ceramic.png"
+    },
+    {
+      "id": 184,
+      "name": "Printmaking",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/print.png"
+    },
+    {
+      "id": 185,
+      "name": "Art History",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/art-prices.png"
+    },
+    {
+      "id": 186,
+      "name": "Performing Arts",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/theatre-mask.png"
+    },
+    {
+      "id": 187,
+      "name": "Theater",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/stage.png"
+    },
+    {
+      "id": 188,
+      "name": "Dance",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/dancing.png"
+    },
+    {
+      "id": 189,
+      "name": "Vocal Performance",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/microphone.png"
+    },
+    {
+      "id": 190,
+      "name": "Instrumental Performance",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/guitar.png"
+    },
+    {
+      "id": 191,
+      "name": "Cinematography",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/cinema.png"
+    },
+    {
+      "id": 192,
+      "name": "Film Production",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/film-reel.png"
+    },
+    {
+      "id": 193,
+      "name": "Scriptwriting",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/script.png"
+    },
+    {
+      "id": 194,
+      "name": "Film Editing",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/video-editing.png"
+    },
+    {
+      "id": 195,
+      "name": "Directing",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/director.png"
+    },
+    {
+      "id": 196,
+      "name": "Set Design",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/set-design.png"
+    },
+    {
+      "id": 197,
+      "name": "Costume Design",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/dress.png"
+    },
+    {
+      "id": 198,
+      "name": "Makeup Artistry",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/makeup.png"
+    },
+    {
+      "id": 199,
+      "name": "Voice Acting",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/voice-recognition.png"
+    },
+    {
+      "id": 200,
+      "name": "Language Teaching",
+      "category": "Other Skills",
+      "subcategory": null,
+      "icon": "https://img.icons8.com/color/48/000000/language.png"
+    },
+    // Additional Skills Provided
+    {
+      "id": 201,
+      "name": "HTML",
+      "category": "Web Development",
+      "subcategory": "Frontend",
+      "icon": "https://img.icons8.com/color/48/000000/html-5.png"
+    },
+    {
+      "id": 202,
+      "name": "CSS",
+      "category": "Web Development",
+      "subcategory": "Frontend",
+      "icon": "https://img.icons8.com/color/48/000000/css3.png"
+    },
+    {
+      "id": 203,
+      "name": "JavaScript",
+      "category": "Web Development",
+      "subcategory": "Frontend",
+      "icon": "https://img.icons8.com/color/48/000000/javascript.png"
+    },
+    {
+      "id": 204,
+      "name": "React.js",
+      "category": "Web Development",
+      "subcategory": "Frontend Framework",
+      "icon": "https://img.icons8.com/color/48/000000/react-native.png"
+    },
+    {
+      "id": 205,
+      "name": "Vue.js",
+      "category": "Web Development",
+      "subcategory": "Frontend Framework",
+      "icon": "https://img.icons8.com/color/48/000000/vue-js.png"
+    },
+    {
+      "id": 206,
+      "name": "Node.js",
+      "category": "Web Development",
+      "subcategory": "Backend",
+      "icon": "https://img.icons8.com/color/48/000000/nodejs.png"
+    },
+    {
+      "id": 207,
+      "name": "Express.js",
+      "category": "Web Development",
+      "subcategory": "Backend",
+      "icon": "https://img.icons8.com/color/48/000000/express.png"
+    },
+    {
+      "id": 208,
+      "name": "Python",
+      "category": "Programming",
+      "subcategory": "Scripting Language",
+      "icon": "https://img.icons8.com/color/48/000000/python.png"
+    },
+    {
+      "id": 209,
+      "name": "Django",
+      "category": "Web Development",
+      "subcategory": "Backend Framework",
+      "icon": "https://img.icons8.com/color/48/000000/django.png"
+    },
+    {
+      "id": 210,
+      "name": "AWS",
+      "category": "Cloud Computing",
+      "subcategory": "Cloud Platform",
+      "icon": "https://img.icons8.com/color/48/000000/amazon-web-services.png"
+    },
+    {
+      "id": 211,
+      "name": "Azure",
+      "category": "Cloud Computing",
+      "subcategory": "Cloud Platform",
+      "icon": "https://img.icons8.com/color/48/000000/azure.png"
+    },
+    {
+      "id": 212,
+      "name": "MySQL",
+      "category": "Database",
+      "subcategory": "Relational Database",
+      "icon": "https://img.icons8.com/color/48/000000/mysql-logo.png"
+    },
+    {
+      "id": 213,
+      "name": "PostgreSQL",
+      "category": "Database",
+      "subcategory": "Relational Database",
+      "icon": "https://img.icons8.com/color/48/000000/postgreesql.png"
+    },
+    {
+      "id": 214,
+      "name": "MongoDB",
+      "category": "Database",
+      "subcategory": "NoSQL Database",
+      "icon": "https://img.icons8.com/color/48/000000/mongodb.png"
+    },
+    {
+      "id": 215,
+      "name": "Git",
+      "category": "Version Control",
+      "subcategory": "Source Control",
+      "icon": "https://img.icons8.com/color/48/000000/git.png"
+    },
+    {
+      "id": 216,
+      "name": "Linux",
+      "category": "Operating Systems",
+      "subcategory": "Server Management",
+      "icon": "https://img.icons8.com/color/48/000000/linux.png"
+    },
+    {
+      "id": 217,
+      "name": "Figma",
+      "category": "Design",
+      "subcategory": "UI/UX",
+      "icon": "https://img.icons8.com/color/48/000000/figma.png"
+    },
+    {
+      "id": 218,
+      "name": "Adobe Photoshop",
+      "category": "Design",
+      "subcategory": "Photo Editing",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-photoshop.png"
+    },
+    {
+      "id": 219,
+      "name": "Adobe Illustrator",
+      "category": "Design",
+      "subcategory": "Vector Design",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-illustrator.png"
+    },
+    {
+      "id": 220,
+      "name": "After Effects",
+      "category": "Video Editing",
+      "subcategory": "Motion Graphics",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-after-effects.png"
+    },
+    {
+      "id": 221,
+      "name": "Premiere Pro",
+      "category": "Video Editing",
+      "subcategory": "Video Production",
+      "icon": "https://img.icons8.com/color/48/000000/adobe-premiere-pro.png"
+    },
+    {
+      "id": 222,
+      "name": "Project Management",
+      "category": "Management",
+      "subcategory": "Business Management",
+      "icon": "https://img.icons8.com/color/48/000000/project-management.png"
+    },
+    {
+      "id": 223,
+      "name": "Marketing Strategy",
+      "category": "Marketing",
+      "subcategory": "Strategic Planning",
+      "icon": "https://img.icons8.com/color/48/000000/marketing-strategy.png"
+    },
+    {
+      "id": 224,
+      "name": "Sales Strategy",
+      "category": "Sales",
+      "subcategory": "Sales Management",
+      "icon": "https://img.icons8.com/color/48/000000/sales-performance.png"
+    },
+    {
+      "id": 225,
+      "name": "Financial Management",
+      "category": "Finance",
+      "subcategory": "Accounting",
+      "icon": "https://img.icons8.com/color/48/000000/accounting.png"
+    },
+    {
+      "id": 226,
+      "name": "Customer Support",
+      "category": "Customer Service",
+      "subcategory": "Support",
+      "icon": "https://img.icons8.com/color/48/000000/customer-support.png"
+    },
+    {
+      "id": 227,
+      "name": "Supply Chain Management",
+      "category": "Operations",
+      "subcategory": "Logistics",
+      "icon": "https://img.icons8.com/color/48/000000/logistics.png"
+    },
+    {
+      "id": 228,
+      "name": "Human Resources",
+      "category": "Business",
+      "subcategory": "HR Management",
+      "icon": "https://img.icons8.com/color/48/000000/human-resources.png"
+    }
+  ]
 }
